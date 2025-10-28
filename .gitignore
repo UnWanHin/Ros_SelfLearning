@@ -7,3 +7,5 @@ log/
 __pycache__/
 src/ly-ros.zip
 *.zip
+bfg-*.jar
+..bfg-report/
